@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AlAoula.mar" tvg-name="Al Aoula Maroc" tvg-logo="https://i.imgur.com/MR8xzYj.png" group-title="Marocco",Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+
+#EXTINF:-1 tvg-id="2M.mar" tvg-name="2M Maroc" tvg-logo="https://i.imgur.com/8NkLfCp.png" group-title="Marocco",2M
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m/hls_snrt/2m.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.mar" tvg-name="Arryadia Maroc" tvg-logo="https://i.imgur.com/JK9hR2T.png" group-title="Marocco",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+
+#EXTINF:-1 tvg-id="Tamazight.mar" tvg-name="Tamazight Maroc" tvg-logo="https://i.imgur.com/YtR4NpQ.png" group-title="Marocco",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight/hls_snrt/tamazight.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TV.mar" tvg-name="Medi 1 TV Maroc" tvg-logo="https://i.imgur.com/pR9kL3f.png" group-title="Marocco",Medi 1 TV
+https://live2.medi1tv.com/medi1tvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMaghribia.mar" tvg-name="Al Maghribia Maroc" tvg-logo="https://i.imgur.com/D4eF5gH.png" group-title="Marocco",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/almaghribia/hls_snrt/almaghribia.m3u8
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/xBS7Lg8.png" group-title="Italia",Rai 1
+https://rai1live.akamaized.net/hls/live/598615/rai1/rai1.m3u8
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/ZKq3VjN.png" group-title="Italia",Rai 2
+https://rai2live.akamaized.net/hls/live/598616/rai2/rai2.m3u8
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/mJd2FfB.png" group-title="Italia",Rai 3
+https://rai3live.akamaized.net/hls/live/598617/rai3/rai3.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/A8rWg5H.png" group-title="Italia",Rai News 24
+https://rainews24live.akamaized.net/hls/live/598618/rainews24/rainews24.m3u8
+
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="https://i.imgur.com/kL9yT6W.png" group-title="Italia",La7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-BB/Live.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://i.imgur.com/pB8vD7q.png" group-title="Italia",TV2000
+https://tv2000-live2.more.streami.uno/hls/tv2000.m3u8
+
+#EXTINF:-1 tvg-id="Byoblu.it" tvg-name="Byoblu" tvg-logo="https://i.imgur.com/sR6tZ1N.png" group-title="Italia",Byoblu
+https://stream.byoblu.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="Radio Italia TV" tvg-logo="https://i.imgur.com/wE9fS3A.png" group-title="Italia",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/radioitaliatv.m3u8
+
+#EXTINF:-1 tvg-id="Telepace.it" tvg-name="Telepace" tvg-logo="https://i.imgur.com/L6dJ8wR.png" group-title="Italia",Telepace
+https://streamer1.streamhost.org/salive/GMI-telepace/manifest.m3u8
